@@ -1,0 +1,27 @@
+.two{
+    background:linear-gradient(to right,#6699ff,#33ccff,#00ccff);
+    
+}
+.two.primary{
+    
+height:400px; 
+  float:left;
+  margin-left:20px;
+  margin-top:80px;
+}
+.two a{
+    text-decoration: none;
+    border:1px solid white;
+    color: white;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:2px;
+    padding-bottom:2px;
+}
+ .two img{
+    margin-left:70px;
+}
+.two .right{
+    margin-top:50px;
+    color: white;
+}

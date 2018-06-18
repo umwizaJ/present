@@ -1,0 +1,145 @@
+.nav{
+    background-color:white;
+    word-spacing: 5px;
+    
+    
+}
+
+.icons{
+    padding-left: 930px;
+    
+}
+.two{
+    background:linear-gradient(to right,#6699ff,#33ccff,#00ccff);
+    
+}
+.second{
+    color: white;
+    margin-left:800px;
+    
+}
+.two h1{
+    font-size: 0.5em;
+}
+
+a{
+    border-style:solid;
+    border-color:white;
+    
+    border-width: 2px  ;
+   text-decoration: none;
+   color:white;
+   text-align:center;
+}
+ 
+
+.asana{
+    display: inline;
+    
+    
+}
+
+.sign{
+    height: 10px;
+    width: 5px;
+}
+
+.center .first{
+     margin-left: 0px;
+     margin-bottom: 40px;
+}
+
+.content .first{
+    margin-left: 200px;
+}
+
+.form-control .fifth{
+    width:200px;
+}
+.form-groupmx-sm-3mb-2 .fifth{
+    display: inline;
+}
+
+.image{
+    margin-top:30px;
+}
+
+.hed .fifth{
+    font-family: helvetica;
+    
+}
+
+.para .fifth{
+    color: rgb(129, 129, 122);
+    font-size: 13px;
+    font-family: helvetica;
+}
+
+
+
+
+.center{
+     margin-left: 350px;
+     margin-bottom: 30px;
+}
+.content{
+    margin-left: 200px;
+}
+
+.form-control{
+    width:200px;
+    length:20px;
+}
+
+.form-groupmx-sm-3mb-2{
+    display: inline;
+}
+
+.image{
+    margin-top:30px;
+}
+
+.hed{
+    font-family: helvetica;
+    
+}
+
+.para{
+    color: rgb(129, 129, 122);
+    font-size: 13px;
+    font-family: Times New Roman;
+}
+
+
+
+
+
+
+.second .wrap{
+    background:linear-gradient(to right,#6699ff,#33ccff,#00ccff);
+    height:500px;
+    color: whitesmoke;
+}
+.second .primary{
+    
+    height:400px; 
+  float:left;
+  margin-left:20px;
+  margin-top:80px;
+}
+
+ .second a{
+    text-decoration: none;
+    border:1px solid white;
+    color: white;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:2px;
+    padding-bottom:2px;
+}
+.second img{
+    margin-left:70px;
+}
+ .second .right{
+    margin-top:50px;
+}

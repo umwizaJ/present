@@ -1,0 +1,49 @@
+.footer{
+    background-color:#3b3c51;
+    width: 100%;
+    height: 300px;
+}
+.footer .main1{
+    background:linear-gradient(to right,#c66dd4,#dc67b9,#fc834d,#fb6b71,#fa5c85);
+    height:100px;
+}
+.footer ul li{
+    list-style: none;
+    text-decoration: none;
+    
+}
+.footer a{
+    text-decoration: none;
+    color: #969da2;
+}
+.footer a:hover{
+    text-decoration: none;
+}
+.footer .one, .two,.four, .five{
+    color:white;
+}
+
+.footer .icon{
+    color: white;
+    font-size: 1.5em;
+}
+.footer .icon1{
+    color: white;
+    font-size: 1.5em;
+}
+.footer .first{
+    width: 200px;
+    height: 100px;
+    margin-top: 10px;
+}
+.footer .second{
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    margin-top: -70px;
+    margin-right: -20px;
+}
+
+
+
+

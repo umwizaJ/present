@@ -1,0 +1,221 @@
+body{
+    margin:auto;
+    width:1000px;
+}
+/* navigation*/
+.header .nav{
+    background-color:white;
+    word-spacing: 5px;
+}
+.header .icons{
+    padding-left: 500px;
+}
+.asana .header{
+    display: inline;
+}
+ .header .sign {
+    height: 10px;
+    width: 5px;
+}
+
+/*first page*/
+.first{
+    margin-right:80px;
+}
+.first .header{
+    background:linear-gradient(to bottom right,#9966ff,#33ccff,#6699ff);
+    height:200px;
+    padding:0;
+    padding-top:20px;
+    width:920px;
+    margin-left:10px; 
+    maargin-bottom:20px;  
+ }
+.first .header p{
+    text-align: center;
+   color:white;
+    font-size: 1em;
+}
+.first .header h1{
+color: white;
+    font-size: 25px;
+    text-align: center;
+    font-size:2em;
+}
+
+ .first .left{
+    background-color: aqua;
+    height:400px; 
+    width:300px;
+    padding:0px;
+     text-align: center;
+    color:white;    
+}
+.first .right{
+     background:url(../img/car.jpg)no-repeat; 
+    height:400PX;
+    padding:0px;
+    margin-left: -10px; 
+    color:white; 
+    width:620px;
+    text-align:center;   
+}
+ .first .tree.left p{
+    padding-left:50px;
+    font-size: 18px;
+    line-height: 5px;
+}
+.first .left a{
+    text-decoration: none;
+    color:white;
+    font-size:30px;
+    border-bottom:3px dotted white;
+}
+.first .left h1{
+    font-size:30px;
+}
+.first ul li{
+    
+    text-align: center;
+    padding-top:100px;
+    margin-left:0px;
+    font-size:35px;
+    display: inline;
+    text-decoration: none;
+}
+.first ul{
+    margin-top: 150px;
+}
+.first button{
+    width: 120px;
+    height:50px;
+    font-size:35px;
+}
+
+    
+/*second page*/
+.second{
+    margin-top:50px;
+    height:100px;
+}
+.second h1{
+ text-align:center;
+font-size:2em;
+}
+.second .wrap
+{
+
+ padding:40px;
+}
+
+/*fourth page*/
+.fourth{
+    margin-top: 200px;
+}
+.fourth .title{
+    margin-bottom:40px;
+   
+    text-align: center;
+}
+.fourth .button{
+    text-align: center;
+    padding-top: 15px;
+}
+
+/*footer*/
+.footer{
+    margin-top:50px;
+}
+.footer .form-control{
+    margin-left:350px;
+}
+.footer h1{
+    text-align: center;
+   font-size: 1.5em;
+}
+
+.footer ul li{
+    list-style: none;
+    text-decoration: none;
+    
+}
+.footer a{
+    text-decoration: none;
+    color: #969da2;
+}
+.footer a:hover{
+    text-decoration: none;
+}
+.footer .one, .two,.four, .five{
+    color:white;
+}
+
+.footer .icon{
+    color: white;
+    font-size: 1.5em;
+}
+.footer .icon1{
+    color: white;
+    font-size: 1.5em;
+}
+.footer .first{
+    width: 200px;
+    height: 100px;
+    margin-top: 10px;
+}
+.footer .second{
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    margin-top: -70px;
+    margin-right: -20px;
+}
+
+
+.footer .circle1{
+    height:250px;
+    width:250px;
+    border-radius: 50%;
+    display: inline-block;
+    background: linear-gradient(to right,#de65b6,#c96bc6,#ba6fe0);
+    margin-left:750px;
+     margin-bottom:-200px;
+position:relative;
+z-index: -1;
+}
+.footer .circle{
+    height:300px;
+    width:300px;
+    border-radius: 50%;
+    display: inline-block;
+    background: linear-gradient(to right,#2ce8c4,#0de8ef);
+   margin-bottom:-200px;   
+position:relative;
+z-index: 1;
+left:-0px;
+
+}
+
+    .footer .circle2{
+        height:180px;
+        width:180px;
+        border-radius: 50%;
+        display: inline-block;
+        background: linear-gradient(to right,#2ce8c4,#0de8ef);
+        margin-left:700px;
+        margin-bottom:-300px;   
+    position:relative;
+    z-index: 1;
+    }
+    
+ .footer .main{
+     margin-top:0px;
+     z-index: 2;
+     position: relative;
+     top:-0px;
+     background-color:#3b3c51;
+     width: 100%;
+     height: 200px;
+     margin-right:50px;
+     margin-bottom:0px;
+ }

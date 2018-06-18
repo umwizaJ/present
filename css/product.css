@@ -1,0 +1,268 @@
+/* navigation*/
+.nav{
+    background-color:white;
+    word-spacing: 5px;
+}
+.icons{
+    
+}
+.asana .header{
+    display: inline;
+}
+ .sign {
+    height: 10px;
+    width: 5px;
+}
+/* first page*/
+
+.first{
+    height:300px;
+    margin:0px;
+}
+.two_imag{
+    display: flex;
+    width: 350px;
+    height: flex;  
+}
+.first .word{
+    margin-top:100px;
+}
+ .first .form{
+    margin-left:500px;
+    height:150px;
+ }
+   
+.first .form1{
+
+background: linear-gradient(to right,#937eff,#4ba6ff,#12c5ff);
+}
+
+.two_2{
+    background: #09d1f5;
+    margin:0px;
+}
+
+.second{
+    /* margin-top:100px;   */
+    color: white;
+    font-size: 1.2em;
+}
+
+
+.three{
+    margin-top:0px;
+    background: linear-gradient( to right, #808fff, #60a5ff,#1cd5ff);
+}
+
+.four{
+   
+    background: linear-gradient( to right, #b273ec,#dc67ba,#ee62a4);
+}
+.second{
+    margin-top:100px;
+}
+
+.second a{
+    border-style:solid;
+    border-color:white;
+    padding:10px;
+    border-width: 2px  ;
+   text-decoration: none;
+   color:white;
+   text-align:center;
+}
+.second h1{
+    font-size:20px;
+  
+    margin-top:50px;
+}
+.circle {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: inline-block;
+    background: linear-gradient(to right,#2ce8c4,#0de8ef);
+    margin-left:-250px;
+    margin-bottom:400px;   
+position:relative;
+z-index: 1;
+}
+
+.new{
+    color:black;
+    font-size: 1.2em;
+}
+.picture{
+    position: relative;
+    top:-450px;
+    left:-70px;
+    z-index: 2;  
+}
+a{
+padding:10px;
+text-decoration: none;
+color:#36d7ff;
+  
+}
+
+.six{
+    text-align: center;
+}
+ .clearfix h1{
+    font-size: 1em;
+}
+.clearfix{
+    margin-top:50px;
+    
+}
+.not{
+    margin-top:50px;
+}
+.title
+{
+    font-size: 2.5em;
+}
+.me{
+    font-size: 1.5em;
+}
+.title1{
+    margin-top:50px;
+    font-size: 1.2em;
+    font-style: bold;
+}
+.end{
+    color:#1cd5ff;
+    font-size: 2em;
+    margin-top:50px;
+}
+
+.not{
+    margin-top: 150px;
+}
+hr{
+    width:250px;
+ margin-top:50px;
+}
+/*footer*/
+.footer .form-control{
+    margin-left:400px;
+}
+.footer h1 {
+    text-align: center;
+   font-size: 1.5em;
+}
+.footer p{
+    text-align: center;
+}
+
+.footer ul li{
+    list-style: none;
+    text-decoration: none;
+    
+}
+.footer a{
+    text-decoration: none;
+    color: #969da2;
+}
+.footer a:hover{
+    text-decoration: none;
+}
+.footer .one, .two1,.four, .five{
+    color:white;
+}
+
+.footer .icon{
+    color: white;
+    font-size: 1.5em;
+}
+.footer .icon1{
+    color: white;
+    font-size: 1.5em;
+}
+.footer .first{
+    width: 200px;
+    height: 100px;
+    margin-top: 10px;
+}
+.footer .second{
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    margin-top: -70px;
+    margin-right: -20px;
+}
+
+
+.footer .circle1{
+    height:250px;
+    width:250px;
+    border-radius: 50%;
+    display: inline-block;
+    background: linear-gradient(to right,#de65b6,#c96bc6,#ba6fe0);
+    margin-left:1200px;
+     margin-bottom:-200px;
+position:relative;
+z-index: -1;
+}
+.circle_half{
+    height:300px;
+    width:300px;
+    border-radius: 50%;
+    background: linear-gradient(to right,#2ce8c4,#0de8ef);
+   margin-bottom:-300px;   
+}
+
+.circle2{
+    height:180px;
+    width:180px;
+    border-radius: 50%;
+    display: inline-block;
+    background: linear-gradient(to right,#2ce8c4,#0de8ef);
+    margin-left:1300px;
+    margin-bottom:-200px;   
+position:relative;
+z-index: 1;
+}
+    
+ .footer .main{
+     margin-top:0px;
+     z-index: 2;
+     position: relative;
+     top:-0px;
+     background-color:#3b3c51;
+
+     height: 350px;
+     margin-bottom:0px;
+     padding-top: 50px;
+ }
+
+ .my_12{
+     display: flex;
+     height: flex;
+     margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+ }
+
+ .footer_first{
+     /* display: flex; */
+     /* flex-direction: row; */
+     background-color: #fff;
+     padding-bottom: 50px;
+ }
+
+ .circle_container:{
+     right: 0%;
+ }
+
+ .content_container{
+     /* margin-left: 300px; */
+ }
+
+ .content_containe form{
+     /* align-items: center;
+     padding-right: 320px; */
+ }
+ .footer_form{
+     padding-left: 10%;
+ }
